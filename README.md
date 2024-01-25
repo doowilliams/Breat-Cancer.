@@ -1,4 +1,4 @@
-# Breat-Cancer.
+# Breast-Cancer.
 
 The project that was planned to be undertaken was focused on using logistic regression to predict the probability of breast cancer diagnosis. Logistic regression is a supervised learning classification algorithm that is commonly used in healthcare and medical research. The objective of this project was to use this algorithm to accurately predict the likelihood of breast cancer in patients based on a set of input variables.
 
