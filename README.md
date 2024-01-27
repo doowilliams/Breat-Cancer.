@@ -34,4 +34,4 @@ Successfully delivered a high-performing machine learning model for breast cance
 
 ---
 
-*Note: Include specific details such as start and end dates once you have them. Tailor the language and details to match your specific contributions and impact in the project.*
+
